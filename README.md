@@ -52,7 +52,7 @@ My work focuses on **AI Agents, Agentic workflows, Prompt Engineering, and Cloud
 - 🇺🇸 English – Advanced (fluent)  
 - 🇪🇸 Spanish – Native  
 - 🇧🇷 Portuguese – Fluent  
-- 🇮🇹 Italian – Intermediate/Fluent  
+- 🇮🇹 Italian – Intermediate
 
 ---
 
