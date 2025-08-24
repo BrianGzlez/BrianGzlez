@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian Ariel González
+# 👋 Hi, I'm Brian González
 
 🚀 **Data & AI Engineer | Machine Learning | Cloud | Compliance**  
 
