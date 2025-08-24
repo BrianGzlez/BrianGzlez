@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brian Ariel González
 
-🚀 **Data & AI Engineer | Machine Learning | Cloud | Financial Crime Compliance**  
+🚀 **Data & AI Engineer | Machine Learning | Cloud | Compliance**  
 
 I specialize in combining **Artificial Intelligence, Data Engineering, and Compliance solutions** to combat fraud and financial crimes.  
 My work focuses on **AI Agents, Agentic workflows, Prompt Engineering, and Cloud-based pipelines** — ensuring scalable, efficient, and secure data solutions.  
