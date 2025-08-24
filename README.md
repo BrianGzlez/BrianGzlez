@@ -48,4 +48,12 @@ My work focuses on **AI Agents, Agentic workflows, Prompt Engineering, and Cloud
 
 ---
 
+## 🌍 Languages
+- 🇺🇸 English – Advanced (fluent)  
+- 🇪🇸 Spanish – Native  
+- 🇧🇷 Portuguese – Fluent  
+- 🇮🇹 Italian – Intermediate/Fluent  
+
+---
+
 📫 Contact: [LinkedIn](https://linkedin.com/in/brianarielg) | [GitHub](https://github.com/BrianGzlez) | ✉️ brianarielgonzalez21@gmail.com  
