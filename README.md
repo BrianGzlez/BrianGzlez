@@ -1,31 +1,21 @@
 # 👋 Hi, I'm Brian Ariel González
 
-🚀 **Data & AI Engineer | Machine Learning | Cloud | Data Engineering**  
+🚀 **Data & AI Engineer | Machine Learning | Cloud | Financial Crime Compliance**  
 
-Passionate about transforming data into business-driven solutions through **AI, Big Data, and scalable pipelines**.  
-Experienced in **fraud detection, process automation, and real-time dashboards** that improve decision-making.  
+I specialize in combining **Artificial Intelligence, Data Engineering, and Compliance solutions** to combat fraud and financial crimes.  
+My work focuses on **AI Agents, Agentic workflows, Prompt Engineering, and Cloud-based pipelines** — ensuring scalable, efficient, and secure data solutions.  
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Expertise
 
-- **Arkham Exchange – Data & AI Engineer (Freelancer)** (2024 - Present)  
-  • Designed **cloud-based pipelines** for efficient data management and processing.  
-  • Built **AI and Machine Learning models** to support business analysis and decision-making.  
-  • Automated workflows with Python and SQL, reducing manual effort.  
-
-- **PedidosYa – Compliance & Fraud Analyst** (2024)  
-  • Developed **fraud detection models** for canceled orders.  
-  • Automated reporting with Python (30% less manual effort).  
-  • Built **real-time insights dashboards** in Power BI.  
-
-- **NewTech - Verizon – Data Analyst** (2023 - 2024)  
-  • Detected fraud patterns with SQL, Python, and ML.  
-  • Optimized reporting pipelines with Python automation.  
-
-- **Scotiabank – Fraud Quality & MIS Assistant Manager** (2022 - 2023)  
-  • Automated reporting in **Power BI & Tableau** (40% faster delivery).  
-  • Improved fraud prevention by analyzing trends and anomalies.  
+- 🤖 **AI & LLMs** – AI Agents, Agentic paradigm, Prompt Engineering, Generative AI (LLMs & Cortex).  
+- 🔎 **Fraud Detection & Prevention** – ML models to identify high-risk behavior and anomalies in transactions.  
+- 🏦 **Compliance & Risk** – Strong background in **KYC, AML, and Financial Crime investigations**.  
+- 💹 **Crypto & Digital Assets** – Worked as a **Data Analyst** with **Crypto Compliance**, applying AML/KYC frameworks and risk monitoring in blockchain ecosystems.  
+- ⚙️ **Data Engineering** – ETL pipelines, workflow automation, and Snowflake advanced modeling.  
+- ☁️ **Cloud Platforms** – Skilled with **AWS, GCP, Azure, Snowflake, and Huawei Cloud**.  
+- 📊 **Business Intelligence** – BI dashboards and real-time insights with Power BI & Tableau.  
 
 ---
 
@@ -41,32 +31,17 @@ Experienced in **fraud detection, process automation, and real-time dashboards**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-- 🤖 **Soporte-bot** – AI-powered support chatbot [[GitHub Repo]](https://github.com/BrianGzlez/Soporte-bot)  
-- 📊 **Fraud Detection** – ML models to identify fraud in canceled orders.  
-- ☁️ **Cloud Data Pipelines** – Automated data ingestion and processing in Snowflake.  
-- 🌐 **Real Estate SaaS** – Next.js and PostgreSQL platform for property management.  
-
----
-
 ## 🏆 Awards & Recognition
 
-- 🥉 **Huawei ICT Global Competition** – 3rd Place, Cloud & Big Data (Shenzhen, China).  
+- 🥉 **Huawei ICT Global Competition (Cloud, Big Data & AI)** – 3rd Place, Shenzhen, China.  
 - 🛰️ **NASA Human Exploration Rover Challenge (Apolo27)** – Spirit Award 2023 | Most Improved 2023 | STEM Award 2022.  
 - 🌎 **Huawei Seeds for the Future 2023** – Tech training in Costa Rica.  
-
----
-
-## 📊 GitHub Stats
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGzlez&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGzlez&layout=compact&theme=tokyonight)  
 
 ---
 
