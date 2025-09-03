@@ -64,3 +64,5 @@ My work focuses on **AI Agents, Agentic workflows, Prompt Engineering, and Cloud
 ### 📈 GitHub Contributions
 ![Tus contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=BrianGzlez&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianGzlez&theme=github-compact)
+
