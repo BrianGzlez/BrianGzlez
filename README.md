@@ -59,10 +59,11 @@ My work focuses on **AI Agents, Agentic workflows, Prompt Engineering, and Cloud
 📫 Contact: [LinkedIn](https://linkedin.com/in/brianarielg) | [GitHub](https://github.com/BrianGzlez) | ✉️ brianarielgonzalez21@gmail.com  
 
 ### 📊 GitHub Stats
-![Tus stats](https://github-readme-stats.vercel.app/api?username=BrianGzlez&show_icons=true&theme=radical)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGzlez&show_icons=true&theme=radical)
 
-### 📈 GitHub Contributions
-![Tus contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=BrianGzlez&theme=radical)
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=BrianGzlez&theme=radical)
 
+### 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianGzlez&theme=github-compact)
 
