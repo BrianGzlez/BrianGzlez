@@ -1,4 +1,6 @@
-Data & AI Engineer building intelligent systems for fraud prevention, compliance, and automation through multi-agent architectures and cloud infrastructure.
+I enjoy building AI systems that actually solve problems — fraud detection, compliance automation, and multi-agent architectures that make decisions at scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianarielg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brianarielgonzalez21@gmail.com)
+Got an idea that will probably fail but sounds fun? Let's talk.
+
+<a href="https://www.linkedin.com/in/brianarielg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:brianarielgonzalez21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
