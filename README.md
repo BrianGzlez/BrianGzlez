@@ -1,117 +1,64 @@
 # 👋 Hi, I'm Brian González
 
-🚀 Data & AI Engineer | Generative AI | Multi-Agent Systems | Cloud & Compliance  
+**Data & AI Engineer** | Generative AI | Multi-Agent Systems | Cloud & Compliance
 
-I specialize in building intelligent systems that combine **Artificial Intelligence, Data Engineering, and Cloud technologies** to solve real-world problems in fraud prevention, compliance, and financial crime detection.
-
-My work focuses on **AI Agents, Multi-Agent Architectures, Agentic Workflows, MCP integrations, Prompt Engineering, and scalable AI-powered data solutions** designed for automation, decision-making, and operational efficiency.
+Building intelligent systems that combine AI, Data Engineering, and Cloud to solve real-world problems in fraud prevention, compliance, and financial crime detection.
 
 ---
 
-# Core Expertise
+## 📊 GitHub Stats
 
-## AI Engineering & Generative AI
-- AI Agents & Multi-Agent Systems
-- Agentic AI Architectures
-- MCP (Model Context Protocol) integrations
-- Prompt Engineering
-- LLM-powered applications
-- AI workflow orchestration
-- Retrieval-Augmented Generation (RAG)
-- AI automation pipelines
-- Snowflake Cortex & AI integrations
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianGzlez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGzlez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
-## 🔎 Fraud Detection & Risk Analytics
-- Fraud detection models
-- Transaction monitoring systems
-- Anomaly detection
-- Behavioral risk analysis
-- Machine Learning for fraud prevention
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrianGzlez&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-## 🏦 Compliance & Financial Crime
-- AML (Anti-Money Laundering)
-- KYC & customer risk analysis
-- Financial crime investigations
-- Crypto compliance & blockchain monitoring
-- Risk monitoring frameworks
-
-## ⚙️ Data Engineering
-- ETL/ELT pipeline development
-- Workflow automation
-- Advanced SQL analytics
-- Data modeling in Snowflake
-- Scalable cloud-based data architectures
-
-## ☁️ Cloud & Platforms
-- AWS
-- Google Cloud Platform (GCP)
-- Huawei Cloud
-- Snowflake
-
-## 📊 BI & Analytics
-- Power BI dashboards
-- Tableau analytics
-- Real-time reporting
-- Data visualization & storytelling
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrianGzlez&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 Core Focus
 
-### Programming
-- Python
-- SQL
-- R
-- JavaScript
-- HTML5 / CSS3
-
-### AI & Data
-- Machine Learning
-- Generative AI
-- AI Agents
-- Multi-Agent Systems
-- MCP
-- RAG Pipelines
-- Snowflake Cortex
-- Streamlit
-
-### Cloud & DevOps
-- AWS
-- GCP
-- Huawei Cloud
-- GitHub Actions
-
-### BI & Visualization
-- Power BI
-- Tableau
+- AI Agents & Multi-Agent Architectures
+- MCP Integrations & Agentic Workflows
+- Prompt Engineering & RAG Pipelines
+- Fraud Detection & AML/KYC Compliance
+- ETL/ELT Pipelines & Data Modeling
+- LLM-powered Automation
 
 ---
 
-# Awards & Recognition
+## 🛠️ Tech Stack
 
-Huawei ICT Global Competition (Cloud, Big Data & AI)  
-3rd Place — Shenzhen, China
-
-NASA Human Exploration Rover Challenge (Apolo27)
-- Spirit Award 2023
-- Most Improved Award 2023
-- STEM Engagement Award 2022
-
-Huawei Seeds for the Future 2023  
-International Tech Program — Costa Rica
+**AI & Data:** Python, SQL, Machine Learning, Generative AI, Snowflake Cortex, Streamlit  
+**Cloud:** AWS, GCP, Huawei Cloud  
+**BI:** Power BI, Tableau  
+**Other:** JavaScript, R, GitHub Actions
 
 ---
 
-# 🌍 Languages
+## 🏆 Awards
 
-- 🇪🇸 Spanish — Native
-- 🇺🇸 English — Fluent
-- 🇮🇹 Italian — Intermediate
+- 🥉 **Huawei ICT Global Competition** — 3rd Place (Shenzhen, China)
+- 🚀 **NASA Rover Challenge** — Spirit Award, Most Improved, STEM Engagement
+- 🌱 **Huawei Seeds for the Future 2023** — Costa Rica
 
 ---
 
-# Connect With Me
+## 🌍 Languages
 
-- LinkedIn: www.linkedin.com/in/brianarielg
-- GitHub: github.com/BrianGzlez
-- Email: brianarielgonzalez21@gmail.com
+🇪🇸 Spanish (Native) · 🇺🇸 English (Fluent) · 🇮🇹 Italian (Intermediate)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianarielg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianGzlez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianarielgonzalez21@gmail.com)
